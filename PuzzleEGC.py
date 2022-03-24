@@ -1,3 +1,7 @@
+# El código no resuelve al 100% el ejercicio, he resuelto hasta donde he sabido llegar. Además en el repositorio está el código en otro archivo
+# correspondiente al juego en sí, que escribí primero ese código para entender la lógica del mismo antes de empezar a resolver este reto.
+
+
 import random
 from tempfile import tempdir
 import numpy as np
